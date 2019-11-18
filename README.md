@@ -1,3 +1,2 @@
 # ViperSampleScene
-Sample Scene Using VIPER
-## The second largest heading
+## Sample scene using VIPER architecture
