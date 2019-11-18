@@ -1,4 +1,5 @@
-# ViperSampleScene ![VIPERGIFTEXT](https://user-images.githubusercontent.com/42733811/69058784-fe4c5980-0a1c-11ea-9e85-6d86fb038276.gif)
+# ViperSampleScene ![VIPERGIFTEXT](https://user-images.githubusercontent.com/42733811/69058784-fe4c5980-0a1c-11ea-9e85-6d86fb038276.gif) ![s](https://user-images.githubusercontent.com/42733811/69059518-5f286180-0a1e-11ea-8e53-1e93d618c110.gif)
+
 
 ## Sample scene using VIPER architecture
 ![Screen Shot 2019-11-18 at 3 44 12 PM](https://user-images.githubusercontent.com/42733811/69057312-4a49cf00-0a1a-11ea-9c08-ccc851997dbb.png) ![MYGIF](https://user-images.githubusercontent.com/42733811/69058507-77977c80-0a1c-11ea-8f3b-586d49eff7e1.gif)
@@ -9,7 +10,7 @@
  - SwiftLint
  - RSwift
  - AutoLayout Programaticlly using Anchors
- - Core Animation
+ - Core Animation (Zooming Image Like Fb.. , Animate Cells)
  - KingFisher
  - Alamofire
  - Codable
@@ -17,3 +18,4 @@
  ## Pods
  ![Screen Shot 2019-11-18 at 3 46 17 PM](https://user-images.githubusercontent.com/42733811/69057445-9563e200-0a1a-11ea-8b42-143ad7a19d2d.png)
 
+![END](https://user-images.githubusercontent.com/42733811/69059329-f80aad00-0a1d-11ea-9356-a263cf07d96e.gif)
