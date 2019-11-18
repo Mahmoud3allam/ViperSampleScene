@@ -1,0 +1,12 @@
+
+line_length:
+  - 200 # warning
+  - 300 # error
+identifier_name:
+  severity: warning
+  min_length: 1 # only warning
+  max_length: 80 # warning 
+excluded:
+  - Pods
+  - R.generated.swift
+  - Carthage
