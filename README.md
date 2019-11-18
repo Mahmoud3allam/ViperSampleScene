@@ -3,6 +3,7 @@
 
 ## Sample scene using VIPER architecture
 ![Screen Shot 2019-11-18 at 3 44 12 PM](https://user-images.githubusercontent.com/42733811/69057312-4a49cf00-0a1a-11ea-9c08-ccc851997dbb.png) ![MYGIF](https://user-images.githubusercontent.com/42733811/69058507-77977c80-0a1c-11ea-8f3b-586d49eff7e1.gif)
+<img width="1216" alt="ViperCheat" src="https://user-images.githubusercontent.com/42733811/69063785-c39aef00-0a25-11ea-8eed-3255c0c3737a.png">
 
 
 ### USED
